@@ -1,7 +1,7 @@
 /*
- * 
- * 
- * 
+ * Author: Amirkhan Mukashev
+ * email: am25524@email.vccs.edu
+ * Last edit: 04/12/2015
  */
 
 import java.awt.*;
